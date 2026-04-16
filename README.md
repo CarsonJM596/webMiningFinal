@@ -10,7 +10,6 @@
 ## What impact has the three point shot had on the game?
 ## Are modern NBA players both more defensively and offensively efficient compared to earlier eras?
 
-# Websites I will be using
+# Website I will be using
 
-## https://stats.nba.com (Official NBA stats with API endpoints)
 ## https://www.basketball-reference.com (Web scraping)
