@@ -14,4 +14,3 @@
 
 ## https://stats.nba.com (Official NBA stats with API endpoints)
 ## https://www.basketball-reference.com (Web scraping)
-## https://www.balldontlie.io (Public NBA API)
